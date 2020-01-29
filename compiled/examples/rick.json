@@ -1,0 +1,25 @@
+{
+   "storymap" : {
+      "slides" : [
+         {
+            "date" : "1987",
+            "location" : {
+               "lat" : 25.6415263730658,
+               "line" : true,
+               "lon" : -70.3125,
+               "zoom" : 5
+            },
+            "media" : {
+               "caption" : "",
+               "credit" : "",
+               "url" : "rick.mp3"
+            },
+            "text" : {
+               "headline" : "Rick",
+               "text" : "Never Gonna Give You Up"
+            },
+            "type" : "overview"
+         }
+      ]
+   }
+}
