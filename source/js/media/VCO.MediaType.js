@@ -114,6 +114,12 @@ VCO.MediaType = function(m) {
 				cls: 		VCO.Media.Blockquote
 			},
 			{
+				type:		"sound",
+				name:		"Sound",
+				match_str:	"\.(wav|mp3|wma|aac|ogg|flac)",
+				cls:		VCO.Media.Sound
+			},
+			{
 				type: 		"website",
 				name: 		"Website",
 				match_str: 	"http://",
